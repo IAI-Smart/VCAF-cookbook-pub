@@ -37,6 +37,8 @@
         "# Bake Mode Time (Minutes)": 17,
         "Broil Mode Temperature (F)": 340,
         "# Broil Mode Time (Minutes)": 11,
+        "Defrost Mode Temperature (F)": 80,
+        "# Defrost Mode Time (Minutes)": 14,
         "Dehydrate Mode Temperature (F)": 110,
         "# Dehydrate Mode Time (Minutes)": 240,
         "Reheat Mode Temperature (F)": 300,
