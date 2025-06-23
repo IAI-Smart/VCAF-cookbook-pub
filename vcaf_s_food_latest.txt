@@ -1,11 +1,11 @@
-# Food List generated 25-06-23 18:48 UTC
+# Food List generated 25-06-23 19:09 UTC
 s_food =
     ( black | red | garbanzo | kidney | lima | pinto ) ? ( beans | bean ) :001 | #001
     ( Pecans | Pecan )  :002 | #002
     ( Cashews | Cashew )  :003 | #003
     ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
     ( macadamia ) ( nuts | nut )? :005 | #005
-    ( Chickpeas | Chickpea )  :006 | #006
+    ( Chickpeas | Chickpea ) :006 | #006
     ( Chicken) ? ( leg | legs )  :007 | #007
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (pockets)   :008 | #008
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
