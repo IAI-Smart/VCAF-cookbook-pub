@@ -190,7 +190,7 @@
     {
         "Food Item": "Pizza rolls",
         "gID": 9,
-        "Air Fry Prompt": "cooking_pizza_rolls.mp4",
+        "Air Fry Prompt": "cooking_pizza_rolls.opus",
         "Baking Prompt": "baking_pizza_rolls.opus",
         "Broiling Prompt": "broiling_pizza_rolls.opus",
         "Dehydrate Prompt": "dehydrating_pizza_rolls.opus",
@@ -238,7 +238,7 @@
     {
         "Food Item": "Veggie slider",
         "gID": 11,
-        "Air Fry Prompt": "cooking_veggie_slider.mp4",
+        "Air Fry Prompt": "cooking_veggie_slider.opus",
         "Baking Prompt": "baking_veggie_slider.opus",
         "Broiling Prompt": "broiling_veggie_slider.opus",
         "Dehydrate Prompt": "dehydrating_veggie_slider.opus",
@@ -284,7 +284,7 @@
     {
         "Food Item": "Scalloped potatoes",
         "gID": 13,
-        "Air Fry Prompt": "cooking_scalloped_potatoes.mp4",
+        "Air Fry Prompt": "cooking_scalloped_potatoes.opus",
         "Baking Prompt": "baking_scalloped_potatoes.opus",
         "Broiling Prompt": "broiling_scalloped_potatoes.opus",
         "Dehydrate Prompt": "dehydrating_scalloped_potatoes.opus",
@@ -494,7 +494,7 @@
     {
         "Food Item": "Veggie samosa",
         "gID": 22,
-        "Air Fry Prompt": "cooking_veggie_samosa.mp4",
+        "Air Fry Prompt": "cooking_veggie_samosa.opus",
         "Baking Prompt": "baking_veggie_samosa.opus",
         "Broiling Prompt": "broiling_veggie_samosa.opus",
         "Dehydrate Prompt": "dehydrating_veggie_samosa.opus",
@@ -722,7 +722,7 @@
     {
         "Food Item": "Veggie quesadilla",
         "gID": 32,
-        "Air Fry Prompt": "cooking_veggie_quesadilla.mp4",
+        "Air Fry Prompt": "cooking_veggie_quesadilla.opus",
         "Baking Prompt": "baking_veggie_quesadilla.opus",
         "Broiling Prompt": "broiling_veggie_quesadilla.opus",
         "Dehydrate Prompt": "dehydrating_veggie_quesadilla.opus",
@@ -810,7 +810,7 @@
     {
         "Food Item": "Shrimp dumplings",
         "gID": 36,
-        "Air Fry Prompt": "cooking_shrimp_dumplings.mp4",
+        "Air Fry Prompt": "cooking_shrimp_dumplings.opus",
         "Baking Prompt": "baking_shrimp_dumplings.opus",
         "Broiling Prompt": "broiling_shrimp_dumplings.opus",
         "Dehydrate Prompt": "dehydrating_shrimp_dumplings.opus",
@@ -832,7 +832,7 @@
     {
         "Food Item": "Tuna",
         "gID": 37,
-        "Air Fry Prompt": "cooking_tuna.mp4",
+        "Air Fry Prompt": "cooking_tuna.opus",
         "Baking Prompt": "baking_tuna.opus",
         "Broiling Prompt": "broiling_tuna.opus",
         "Dehydrate Prompt": "dehydrating_tuna.opus",
@@ -856,7 +856,7 @@
     {
         "Food Item": "Shrimp",
         "gID": 38,
-        "Air Fry Prompt": "cooking_shrimp.mp4",
+        "Air Fry Prompt": "cooking_shrimp.opus",
         "Baking Prompt": "baking_shrimp.opus",
         "Broiling Prompt": "broiling_shrimp.opus",
         "Dehydrate Prompt": "dehydrating_shrimp.opus",
@@ -948,7 +948,7 @@
     {
         "Food Item": "Sea bass",
         "gID": 42,
-        "Air Fry Prompt": "cooking_sea_bass.mp4",
+        "Air Fry Prompt": "cooking_sea_bass.opus",
         "Baking Prompt": "baking_sea_bass.opus",
         "Broiling Prompt": "broiling_sea_bass.opus",
         "Dehydrate Prompt": "dehydrating_sea_bass.opus",
@@ -1468,7 +1468,7 @@
     {
         "Food Item": "Turkey sausage",
         "gID": 65,
-        "Air Fry Prompt": "cooking_turkey_sausage.mp4",
+        "Air Fry Prompt": "cooking_turkey_sausage.opus",
         "Baking Prompt": "baking_turkey_sausage.opus",
         "Broiling Prompt": "broiling_turkey_sausage.opus",
         "Dehydrate Prompt": "dehydrating_turkey_sausage.opus",
@@ -2056,7 +2056,7 @@
     {
         "Food Item": "Rice",
         "gID": 91,
-        "Air Fry Prompt": "cooking_rice.mp4",
+        "Air Fry Prompt": "cooking_rice.opus",
         "Baking Prompt": "baking_rice.opus",
         "Broiling Prompt": "broiling_rice.opus",
         "Dehydrate Prompt": "dehydrating_rice.opus",
@@ -2354,7 +2354,7 @@
     {
         "Food Item": "Rack of lamb",
         "gID": 104,
-        "Air Fry Prompt": "cooking_rack_of_lamb.mp4",
+        "Air Fry Prompt": "cooking_rack_of_lamb.opus",
         "Baking Prompt": "baking_rack_of_lamb.opus",
         "Broiling Prompt": "broiling_rack_of_lamb.opus",
         "Dehydrate Prompt": "dehydrating_rack_of_lamb.opus",
@@ -2420,7 +2420,7 @@
     {
         "Food Item": "Popcorn shrimp",
         "gID": 107,
-        "Air Fry Prompt": "cooking_popcorn_shrimp.mp4",
+        "Air Fry Prompt": "cooking_popcorn_shrimp.opus",
         "Baking Prompt": "baking_popcorn_shrimp.opus",
         "Broiling Prompt": "broiling_popcorn_shrimp.opus",
         "Dehydrate Prompt": "dehydrating_popcorn_shrimp.opus",
@@ -2646,7 +2646,7 @@
     {
         "Food Item": "Turkey breast",
         "gID": 117,
-        "Air Fry Prompt": "cooking_turkey_breast.mp4",
+        "Air Fry Prompt": "cooking_turkey_breast.opus",
         "Baking Prompt": "baking_turkey_breast.opus",
         "Broiling Prompt": "broiling_turkey_breast.opus",
         "Dehydrate Prompt": "dehydrating_turkey_breast.opus",
