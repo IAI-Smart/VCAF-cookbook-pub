@@ -1,4 +1,4 @@
-# Food List generated 25-06-30 20:13 UTC
+# Food List generated 25-06-30 20:40 UTC
 s_food =
     ( Potato (Wedges | Wedge ))  :074 | #074
     ( Tater (Tots | Tot ))   :075 | #075

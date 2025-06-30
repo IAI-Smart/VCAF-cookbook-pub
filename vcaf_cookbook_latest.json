@@ -636,7 +636,7 @@
         "Baking Prompt": "baking_cutlets.opus",
         "Broiling Prompt": "broiling_cutlets.opus",
         "Dehydrate Prompt": "dehydrating_cutlets.opus",
-        "Food Category": "Meat",
+        "Food Category": "Poultry",
         "Temperature (F)": 400,
         "Standard Time (minutes)": 15,
         "Bake Mode Temperature (F)": 370,
