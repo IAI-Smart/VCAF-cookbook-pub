@@ -2224,7 +2224,7 @@
         "Baking Prompt": "baking_veggie_samosa.opus",
         "Broiling Prompt": "broiling_veggie_samosa.opus",
         "Dehydrate Prompt": "dehydrating_veggie_samosa.opus",
-        "Food Category": "Snacks",
+        "Food Category": "Veggies/Fruit",
         "Temperature (F)": 375,
         "Standard Time (minutes)": 10,
         "Bake Mode Temperature (F)": 350,
