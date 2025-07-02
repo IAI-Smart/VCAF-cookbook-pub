@@ -1040,7 +1040,7 @@
         "Flip": 0
     },
     {
-        "Food Item": "Chicken leg",
+        "Food Item": "Chicken legs",
         "gID": 7,
         "Air Fry Prompt": "cooking_chicken_leg.opus",
         "Baking Prompt": "baking_chicken_leg.opus",
@@ -2148,7 +2148,7 @@
         "Flip": 0
     },
     {
-        "Food Item": "Pizza pocket",
+        "Food Item": "Pizza pockets",
         "gID": 8,
         "Air Fry Prompt": "cooking_pizza_pocket.opus",
         "Baking Prompt": "baking_pizza_pocket.opus",
