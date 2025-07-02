@@ -424,7 +424,7 @@
         "Flip": 1
     },
     {
-        "Food Item": "Tbone",
+        "Food Item": "T-bone",
         "gID": 61,
         "Air Fry Prompt": "cooking_tbone.opus",
         "Baking Prompt": "baking_tbone.opus",
