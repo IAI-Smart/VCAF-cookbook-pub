@@ -2488,7 +2488,7 @@
         "Flip": 0
     },
     {
-        "Food Item": "Yam",
+        "Food Item": "Yams",
         "gID": 10,
         "Air Fry Prompt": "cooking_yam.opus",
         "Baking Prompt": "baking_yam.opus",
