@@ -2628,7 +2628,7 @@
         "Flip": 0
     },
     {
-        "Food Item": "Mushroom",
+        "Food Item": "Mushrooms",
         "gID": 17,
         "Air Fry Prompt": "cooking_mushroom.opus",
         "Baking Prompt": "baking_mushroom.opus",
