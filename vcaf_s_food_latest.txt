@@ -1,7 +1,8 @@
-# Food List generated 25-07-08 14:42 UTC
+# Food List generated 25-07-08 15:13 UTC
 s_food =
     ( Potato (Wedges | Wedge ))  :074 | #074
     ( Tater (Tots | Tot ))   :075 | #075
+    ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
     ( Hash ( Browns | Brown ))   :076 | #076
     ( Apple | Peach ) ? ( Fruit (Crisps | Crisp ))  :077 | #077
     ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
@@ -89,7 +90,6 @@ s_food =
     ( Popcorn (Shrimp | Shrimps))  :107 | #107
     Crab (Leg | Legs) ? : 125 | #125
     ( Shrimp ) ? ( Dumplings | Dumpling )  :036 | #036
-    ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
     (Garlic (  Bread | Breads ))   :081 | #081
     ( Garlic (Knots | Knot ))   :082 | #082
     ( French Toast)   :083 | #083
