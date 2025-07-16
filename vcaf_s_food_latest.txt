@@ -1,4 +1,4 @@
-# Food List generated 25-07-16 06:52 UTC
+# Food List generated 25-07-16 07:15 UTC
 s_food =
     ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
     ( Apple | Peach ) ? ( Fruit (Crisps | Crisp ))  :077 | #077
