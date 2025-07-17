@@ -1,4 +1,4 @@
-# Food List generated 25-07-17 22:43 UTC
+# Food List generated 25-07-17 23:13 UTC
 s_food =
     ( black | red | garbanzo | kidney | lima | pinto ) ? ( beans | bean ) :001 | #001
     ( Pecans | Pecan )  :002 | #002
