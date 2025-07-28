@@ -1,4 +1,4 @@
-# Food List generated 25-07-28 15:14 UTC
+# Food List generated 25-07-28 15:44 UTC
 s_food =
     Strip (Steak | Steaks) ? :001 | #001
     ( Pecans | Pecan )  :002 | #002
@@ -116,32 +116,15 @@ s_food =
     squash :131 | #131
     tofu :132 | #132
     donuts :133 | #133
-    nan
-    nan
-    nan
-    Grammar
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
-    Mozzarella ( Sticks | Stick )   :035 | #035
     ( Shrimp ) ? ( Dumplings | Dumpling )  :036 | #036
     ( Pork ) ( Dumplings | Dumpling ) :039 | #039
-    ( Fish ( Sticks | Stick ))   :047 | #047
-    ( Chicken (Nugget | Nuggets ))   :058 | #058
-    ( Tater (Tots | Tot ))   :075 | #075
     ( Hash ( Browns | Brown ))   :076 | #076
-    ( Mini ) ? ( Corn (Dogs | Dog ))  :097 | #097
     ( Vegetable ) ( Dumplings | Dumpling )   :105 | #105
     ( beef) ( Dumplings | Dumpling )   :106 | #106
-    ( Popcorn (Shrimp | Shrimps))  :107 | #107
     ( Chicken ) ( Dumplings | Dumpling )   :116 | #116
     Pot (sticker | stickers) : 129 | #129
-    nan
-    nan
-    Grammar
-    ( red ) ? ( Tomato | Tomatoes )   :015 | #015
-    ( Mushroom | Mushrooms )   :017 | #017
-    ( Eggplant | Eggplants )  :018 | #018
     ( beef ) ? ( Jerky ) ( Strip | Strips ) ?   :029 | #029
-    (Beet | Beets) :048 | #048
     (Apple | Apples) (Slice | Slices) ? :049 | #049
     (Banana | Bananas) (Slice | Slices) ? :052 | #052
     Fresh ? (Herb | Herbs) :054 | #054
@@ -150,7 +133,5 @@ s_food =
     (Pineapple | Pineapples) (Slice | Slices) ? :083 | #083
     (Strawberry | Strawberries) (Slice | Slices) ? :087 | #087
     ( Chicken )( Jerky ) ( Strip | Strips ) ? :091 | #091
-    ( zucchini )   :095 | #095
-    ( Asparagus )  :098 | #098
     ( Turkey )( Jerky ) ( Strip | Strips ) ? :134 | #134
     ( Salmon )( Jerky ) ( Strip | Strips ) ? :135 ; #135
