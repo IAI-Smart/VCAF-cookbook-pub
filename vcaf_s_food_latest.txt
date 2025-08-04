@@ -1,4 +1,4 @@
-# Food List generated 25-08-04 22:13 UTC
+# Food List generated 25-08-04 22:44 UTC
 s_food =
     Strip (Steak | Steaks) ? :001 | #001
     ( Pecans | Pecan )  :002 | #002
