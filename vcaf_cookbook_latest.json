@@ -544,12 +544,12 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Tarts",
-        "gID": 79,
+        "Food Item": "Brownies",
+        "gID": 88,
         "Cookbook": "Standard",
         "Food Category": "Desserts",
-        "Temperature (F)": 350,
-        "Time (minutes)": 3
+        "Temperature (F)": 325,
+        "Time (minutes)": 15
     },
     {
         "Food Item": "Pecans",
@@ -576,12 +576,12 @@
         "Time (minutes)": 8
     },
     {
-        "Food Item": "Egg tart",
-        "gID": 84,
+        "Food Item": "Cinnamon roll",
+        "gID": 86,
         "Cookbook": "Standard",
         "Food Category": "Desserts",
-        "Temperature (F)": 380,
-        "Time (minutes)": 8
+        "Temperature (F)": 350,
+        "Time (minutes)": 7
     },
     {
         "Food Item": "Cookies",
@@ -592,20 +592,20 @@
         "Time (minutes)": 7
     },
     {
-        "Food Item": "Cinnamon roll",
-        "gID": 86,
+        "Food Item": "Egg tart",
+        "gID": 84,
+        "Cookbook": "Standard",
+        "Food Category": "Desserts",
+        "Temperature (F)": 380,
+        "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Tarts",
+        "gID": 79,
         "Cookbook": "Standard",
         "Food Category": "Desserts",
         "Temperature (F)": 350,
-        "Time (minutes)": 7
-    },
-    {
-        "Food Item": "Brownies",
-        "gID": 88,
-        "Cookbook": "Standard",
-        "Food Category": "Desserts",
-        "Temperature (F)": 325,
-        "Time (minutes)": 15
+        "Time (minutes)": 3
     },
     {
         "Food Item": "Potato chips",
@@ -628,8 +628,8 @@
         "gID": 33,
         "Cookbook": "Standard",
         "Food Category": "Snacks",
-        "Temperature (F)": 320,
-        "Time (minutes)": 14
+        "Temperature (F)": 325,
+        "Time (minutes)": 10
     },
     {
         "Food Item": "Spinach",

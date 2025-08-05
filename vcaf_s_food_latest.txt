@@ -1,4 +1,4 @@
-# Food List generated 25-08-05 17:43 UTC
+# Food List generated 25-08-05 18:20 UTC
 s_food =
     Strip (Steak | Steaks) ? :001 | #001
     ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
@@ -68,14 +68,14 @@ s_food =
     Mozzarella ( Sticks | Stick )   :035 | #035
     (noodles )   :092 | #092
     Onion ( Rings | Ring )   :034 | #034
-    ( Pop | Chocolate ) ? ( Tarts | Tart )  :079 | #079
+    ( Chocolate | Vanilla ) ? ( Brownies | Brownie )   :088 | #088
     ( Pecans | Pecan )  :002 | #002
     ( Cheese | Pepperoni | Margherita | BBQ Chicken | Veggie ) ? ( Pizza | Pizzas )   :080 | #080
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (pockets)   :008 | #008
-    ( Egg (Tart | Tarts ))   :084 | #084
-    ( Chocolate Chip? | Peanut Butter? | Oatmeal | Sugar ) ? ( Cookies | Cookie )   :085 | #085
     ( Cinnamon (Roll | Rolls ))  :086 | #086
-    ( Chocolate | Vanilla ) ? ( Brownies | Brownie )   :088 | #088
+    ( Chocolate Chip? | Peanut Butter? | Oatmeal | Sugar ) ? ( Cookies | Cookie )   :085 | #085
+    ( Egg (Tart | Tarts ))   :084 | #084
+    ( Pop | Chocolate ) ? ( Tarts | Tart )  :079 | #079
     ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
     ( Potato (Wedges | Wedge ))  :074 | #074
     ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
