@@ -184,6 +184,22 @@
         "Time (minutes)": 4
     },
     {
+        "Food Item": "Bacon",
+        "gID": 31,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 350,
+        "Time (minutes)": 7
+    },
+    {
+        "Food Item": "Beef burgers",
+        "gID": 69,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 400,
+        "Time (minutes)": 10
+    },
+    {
         "Food Item": "Beef patties",
         "gID": 25,
         "Cookbook": "Standard",
@@ -192,44 +208,28 @@
         "Time (minutes)": 9
     },
     {
-        "Food Item": "Meatloaf",
-        "gID": 26,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 370,
-        "Time (minutes)": 23
-    },
-    {
-        "Food Item": "Meatballs",
-        "gID": 27,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 350,
-        "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Lamb chops",
-        "gID": 28,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 400,
-        "Time (minutes)": 8
-    },
-    {
-        "Food Item": "Ground beef",
-        "gID": 30,
+        "Food Item": "Beef quesadilla",
+        "gID": 115,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 375,
-        "Time (minutes)": 13
+        "Time (minutes)": 6
     },
     {
-        "Food Item": "Bacon",
-        "gID": 31,
+        "Food Item": "Beef ribs",
+        "gID": 67,
         "Cookbook": "Standard",
         "Food Category": "Meat",
-        "Temperature (F)": 350,
-        "Time (minutes)": 7
+        "Temperature (F)": 375,
+        "Time (minutes)": 20
+    },
+    {
+        "Food Item": "Beef samosa",
+        "gID": 111,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 390,
+        "Time (minutes)": 11
     },
     {
         "Food Item": "Fries",
@@ -416,28 +416,28 @@
         "Time (minutes)": 13
     },
     {
-        "Food Item": "T-bone",
-        "gID": 61,
+        "Food Item": "Beef sausage",
+        "gID": 66,
         "Cookbook": "Standard",
         "Food Category": "Meat",
-        "Temperature (F)": 400,
-        "Time (minutes)": 9
+        "Temperature (F)": 350,
+        "Time (minutes)": 10
     },
     {
-        "Food Item": "Steak",
-        "gID": 62,
+        "Food Item": "Beef tenderloin",
+        "gID": 94,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 380,
+        "Time (minutes)": 25
+    },
+    {
+        "Food Item": "Filet mignon",
+        "gID": 71,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
         "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Sirloin",
-        "gID": 63,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 400,
-        "Time (minutes)": 13
     },
     {
         "Food Item": "Chicken tenderloin",
@@ -456,20 +456,36 @@
         "Time (minutes)": 23
     },
     {
-        "Food Item": "Beef sausage",
-        "gID": 66,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 350,
-        "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Beef ribs",
-        "gID": 67,
+        "Food Item": "Ground beef",
+        "gID": 30,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 375,
-        "Time (minutes)": 20
+        "Time (minutes)": 13
+    },
+    {
+        "Food Item": "Hamburgers",
+        "gID": 126,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 375,
+        "Time (minutes)": 14
+    },
+    {
+        "Food Item": "Hot dog",
+        "gID": 124,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 400,
+        "Time (minutes)": 3
+    },
+    {
+        "Food Item": "Lamb chops",
+        "gID": 28,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 400,
+        "Time (minutes)": 8
     },
     {
         "Food Item": "Lamb ribs",
@@ -480,28 +496,12 @@
         "Time (minutes)": 25
     },
     {
-        "Food Item": "Beef burgers",
-        "gID": 69,
+        "Food Item": "London broil",
+        "gID": 103,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
-        "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Pork tenderloin",
-        "gID": 70,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 400,
-        "Time (minutes)": 14
-    },
-    {
-        "Food Item": "Filet mignon",
-        "gID": 71,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 400,
-        "Time (minutes)": 10
+        "Time (minutes)": 9
     },
     {
         "Food Item": "Chicken wings",
@@ -640,12 +640,12 @@
         "Time (minutes)": 20
     },
     {
-        "Food Item": "Beef tenderloin",
-        "gID": 94,
+        "Food Item": "Meatballs",
+        "gID": 27,
         "Cookbook": "Standard",
         "Food Category": "Meat",
-        "Temperature (F)": 380,
-        "Time (minutes)": 25
+        "Temperature (F)": 350,
+        "Time (minutes)": 10
     },
     {
         "Food Item": "Spinach",
@@ -712,20 +712,20 @@
         "Time (minutes)": 9
     },
     {
-        "Food Item": "London broil",
-        "gID": 103,
+        "Food Item": "Meatloaf",
+        "gID": 26,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 370,
+        "Time (minutes)": 23
+    },
+    {
+        "Food Item": "Pork chops",
+        "gID": 123,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
-        "Time (minutes)": 9
-    },
-    {
-        "Food Item": "Rack of lamb",
-        "gID": 104,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 360,
-        "Time (minutes)": 17
+        "Time (minutes)": 11
     },
     {
         "Food Item": "Tilapia",
@@ -760,12 +760,12 @@
         "Time (minutes)": 60
     },
     {
-        "Food Item": "Beef samosa",
-        "gID": 111,
+        "Food Item": "Pork ribs",
+        "gID": 127,
         "Cookbook": "Standard",
         "Food Category": "Meat",
-        "Temperature (F)": 390,
-        "Time (minutes)": 11
+        "Temperature (F)": 380,
+        "Time (minutes)": 35
     },
     {
         "Food Item": "Strip",
@@ -792,12 +792,12 @@
         "Time (minutes)": 40
     },
     {
-        "Food Item": "Beef quesadilla",
-        "gID": 115,
+        "Food Item": "Pork sausage",
+        "gID": 128,
         "Cookbook": "Standard",
         "Food Category": "Meat",
-        "Temperature (F)": 375,
-        "Time (minutes)": 6
+        "Temperature (F)": 400,
+        "Time (minutes)": 10
     },
     {
         "Food Item": "Turkey burgers",
@@ -840,28 +840,28 @@
         "Time (minutes)": 27
     },
     {
-        "Food Item": "Whole ham",
-        "gID": 122,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 300,
-        "Time (minutes)": 40
-    },
-    {
-        "Food Item": "Pork chops",
-        "gID": 123,
+        "Food Item": "Pork tenderloin",
+        "gID": 70,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
-        "Time (minutes)": 11
+        "Time (minutes)": 14
     },
     {
-        "Food Item": "Hot dog",
-        "gID": 124,
+        "Food Item": "Rack of lamb",
+        "gID": 104,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 360,
+        "Time (minutes)": 17
+    },
+    {
+        "Food Item": "Sirloin",
+        "gID": 63,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
-        "Time (minutes)": 3
+        "Time (minutes)": 13
     },
     {
         "Food Item": "Tuna",
@@ -872,28 +872,28 @@
         "Time (minutes)": 9
     },
     {
-        "Food Item": "Hamburgers",
-        "gID": 126,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 375,
-        "Time (minutes)": 14
-    },
-    {
-        "Food Item": "Pork ribs",
-        "gID": 127,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 380,
-        "Time (minutes)": 35
-    },
-    {
-        "Food Item": "Pork sausage",
-        "gID": 128,
+        "Food Item": "Steak",
+        "gID": 62,
         "Cookbook": "Standard",
         "Food Category": "Meat",
         "Temperature (F)": 400,
         "Time (minutes)": 10
+    },
+    {
+        "Food Item": "T-bone",
+        "gID": 61,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 400,
+        "Time (minutes)": 9
+    },
+    {
+        "Food Item": "Whole ham",
+        "gID": 122,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 300,
+        "Time (minutes)": 40
     },
     {
         "Food Item": "Veggie slider",
@@ -1040,28 +1040,28 @@
         "Time (minutes)": 13
     },
     {
-        "Food Item": "Tomato",
-        "gID": 15,
+        "Food Item": "Apples",
+        "gID": 49,
+        "Cookbook": "Dehydrate",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 135,
+        "Time (minutes)": 420
+    },
+    {
+        "Food Item": "Asparagus",
+        "gID": 98,
         "Cookbook": "Dehydrate",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 135,
         "Time (minutes)": 360
     },
     {
-        "Food Item": "Mushrooms",
-        "gID": 17,
+        "Food Item": "Bananas",
+        "gID": 52,
         "Cookbook": "Dehydrate",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 135,
-        "Time (minutes)": 360
-    },
-    {
-        "Food Item": "Eggplant",
-        "gID": 18,
-        "Cookbook": "Dehydrate",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 135,
-        "Time (minutes)": 360
+        "Time (minutes)": 480
     },
     {
         "Food Item": "Beef jerky",
@@ -1080,20 +1080,20 @@
         "Time (minutes)": 360
     },
     {
-        "Food Item": "Apples",
-        "gID": 49,
+        "Food Item": "Chicken jerky",
+        "gID": 91,
         "Cookbook": "Dehydrate",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 135,
-        "Time (minutes)": 420
+        "Food Category": "Poultry",
+        "Temperature (F)": 150,
+        "Time (minutes)": 300
     },
     {
-        "Food Item": "Bananas",
-        "gID": 52,
+        "Food Item": "Eggplant",
+        "gID": 18,
         "Cookbook": "Dehydrate",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 135,
-        "Time (minutes)": 480
+        "Time (minutes)": 360
     },
     {
         "Food Item": "Fresh herbs",
@@ -1120,12 +1120,28 @@
         "Time (minutes)": 360
     },
     {
+        "Food Item": "Mushrooms",
+        "gID": 17,
+        "Cookbook": "Dehydrate",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 135,
+        "Time (minutes)": 360
+    },
+    {
         "Food Item": "Pineapple",
         "gID": 83,
         "Cookbook": "Dehydrate",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 135,
         "Time (minutes)": 360
+    },
+    {
+        "Food Item": "Salmon jerky",
+        "gID": 135,
+        "Cookbook": "Dehydrate",
+        "Food Category": "Seafood",
+        "Temperature (F)": 150,
+        "Time (minutes)": 180
     },
     {
         "Food Item": "Strawberries",
@@ -1136,24 +1152,8 @@
         "Time (minutes)": 360
     },
     {
-        "Food Item": "Chicken jerky",
-        "gID": 91,
-        "Cookbook": "Dehydrate",
-        "Food Category": "Poultry",
-        "Temperature (F)": 150,
-        "Time (minutes)": 300
-    },
-    {
-        "Food Item": "Zucchini",
-        "gID": 95,
-        "Cookbook": "Dehydrate",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 115,
-        "Time (minutes)": 480
-    },
-    {
-        "Food Item": "Asparagus",
-        "gID": 98,
+        "Food Item": "Tomato",
+        "gID": 15,
         "Cookbook": "Dehydrate",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 135,
@@ -1168,11 +1168,11 @@
         "Time (minutes)": 300
     },
     {
-        "Food Item": "Salmon jerky",
-        "gID": 135,
+        "Food Item": "Zucchini",
+        "gID": 95,
         "Cookbook": "Dehydrate",
-        "Food Category": "Seafood",
-        "Temperature (F)": 150,
-        "Time (minutes)": 180
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 115,
+        "Time (minutes)": 480
     }
 ]
