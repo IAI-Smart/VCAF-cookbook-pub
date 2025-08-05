@@ -1,11 +1,11 @@
 [
     {
-        "Food Item": "Strip",
-        "gID": 1,
+        "Food Item": "Chicken",
+        "gID": 59,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 370,
-        "Time (minutes)": 12
+        "Temperature (F)": 360,
+        "Time (minutes)": 60
     },
     {
         "Food Item": "Biscuits",
@@ -40,20 +40,20 @@
         "Time (minutes)": 6
     },
     {
-        "Food Item": "Chickpeas",
-        "gID": 6,
+        "Food Item": "Asparagus",
+        "gID": 98,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 400,
-        "Time (minutes)": 12
+        "Time (minutes)": 7
     },
     {
-        "Food Item": "Chicken legs",
-        "gID": 7,
+        "Food Item": "Chicken breast",
+        "gID": 73,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 400,
-        "Time (minutes)": 24
+        "Temperature (F)": 360,
+        "Time (minutes)": 18
     },
     {
         "Food Item": "Corn dogs",
@@ -64,28 +64,28 @@
         "Time (minutes)": 9
     },
     {
-        "Food Item": "Yams",
-        "gID": 10,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 370,
-        "Time (minutes)": 40
-    },
-    {
-        "Food Item": "Veggie slider",
-        "gID": 11,
+        "Food Item": "Beets",
+        "gID": 48,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 400,
-        "Time (minutes)": 14
+        "Time (minutes)": 18
     },
     {
-        "Food Item": "Veggie burger",
-        "gID": 12,
+        "Food Item": "Bell peppers",
+        "gID": 99,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 400,
-        "Time (minutes)": 6
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Broccoli",
+        "gID": 24,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 350,
+        "Time (minutes)": 9
     },
     {
         "Food Item": "Donut",
@@ -96,35 +96,59 @@
         "Time (minutes)": 8
     },
     {
-        "Food Item": "Tender",
-        "gID": 14,
+        "Food Item": "Chicken burgers",
+        "gID": 121,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 400,
-        "Time (minutes)": 10
+        "Temperature (F)": 375,
+        "Time (minutes)": 15
     },
     {
-        "Food Item": "Tomato",
-        "gID": 15,
+        "Food Item": "Brussels sprouts",
+        "gID": 23,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 350,
-        "Time (minutes)": 12
+        "Temperature (F)": 375,
+        "Time (minutes)": 13
     },
     {
-        "Food Item": "Potato",
-        "gID": 16,
+        "Food Item": "Butternut squash",
+        "gID": 100,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 400,
         "Time (minutes)": 20
     },
     {
-        "Food Item": "Mushrooms",
-        "gID": 17,
+        "Food Item": "Carrots",
+        "gID": 21,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 375,
+        "Temperature (F)": 370,
+        "Time (minutes)": 13
+    },
+    {
+        "Food Item": "Cauliflower",
+        "gID": 20,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 15
+    },
+    {
+        "Food Item": "Chickpeas",
+        "gID": 6,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Corn",
+        "gID": 19,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
         "Time (minutes)": 10
     },
     {
@@ -136,52 +160,28 @@
         "Time (minutes)": 11
     },
     {
-        "Food Item": "Corn",
-        "gID": 19,
+        "Food Item": "Eggplant parmesan",
+        "gID": 130,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 10
+        "Temperature (F)": 380,
+        "Time (minutes)": 12
     },
     {
-        "Food Item": "Cauliflower",
-        "gID": 20,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 15
-    },
-    {
-        "Food Item": "Carrots",
-        "gID": 21,
+        "Food Item": "Green beans",
+        "gID": 108,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 370,
-        "Time (minutes)": 13
+        "Time (minutes)": 10
     },
     {
-        "Food Item": "Veggie samosa",
-        "gID": 22,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 350,
-        "Time (minutes)": 18
-    },
-    {
-        "Food Item": "Brussels sprouts",
-        "gID": 23,
+        "Food Item": "Kale chip",
+        "gID": 101,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 375,
-        "Time (minutes)": 13
-    },
-    {
-        "Food Item": "Broccoli",
-        "gID": 24,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 350,
-        "Time (minutes)": 9
+        "Time (minutes)": 4
     },
     {
         "Food Item": "Beef patties",
@@ -264,74 +264,26 @@
         "Time (minutes)": 7
     },
     {
-        "Food Item": "Tuna",
-        "gID": 37,
+        "Food Item": "Calamari",
+        "gID": 51,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
         "Temperature (F)": 380,
-        "Time (minutes)": 9
-    },
-    {
-        "Food Item": "Shrimp",
-        "gID": 38,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 400,
-        "Time (minutes)": 5
-    },
-    {
-        "Food Item": "Tilapia",
-        "gID": 40,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 375,
-        "Time (minutes)": 7
-    },
-    {
-        "Food Item": "Snapper",
-        "gID": 41,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 390,
         "Time (minutes)": 8
     },
     {
-        "Food Item": "Sea bass",
-        "gID": 42,
+        "Food Item": "Crab",
+        "gID": 125,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
-        "Temperature (F)": 390,
-        "Time (minutes)": 5
-    },
-    {
-        "Food Item": "Salmon",
-        "gID": 43,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 375,
-        "Time (minutes)": 9
-    },
-    {
-        "Food Item": "Prawns",
-        "gID": 44,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 400,
-        "Time (minutes)": 7
-    },
-    {
-        "Food Item": "Lobster",
-        "gID": 45,
-        "Cookbook": "Standard",
-        "Food Category": "Seafood",
-        "Temperature (F)": 380,
+        "Temperature (F)": 370,
         "Time (minutes)": 6
     },
     {
-        "Food Item": "Chicken finger",
-        "gID": 46,
+        "Food Item": "Crab cakes",
+        "gID": 50,
         "Cookbook": "Standard",
-        "Food Category": "Poultry",
+        "Food Category": "Seafood",
         "Temperature (F)": 400,
         "Time (minutes)": 10
     },
@@ -344,52 +296,84 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Beets",
-        "gID": 48,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 18
-    },
-    {
-        "Food Item": "Crab cakes",
-        "gID": 50,
+        "Food Item": "Lobster",
+        "gID": 45,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
+        "Temperature (F)": 380,
+        "Time (minutes)": 6
+    },
+    {
+        "Food Item": "Popcorn shrimp",
+        "gID": 107,
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 360,
+        "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Prawns",
+        "gID": 44,
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 400,
+        "Time (minutes)": 7
+    },
+    {
+        "Food Item": "Salmon",
+        "gID": 43,
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 375,
+        "Time (minutes)": 9
+    },
+    {
+        "Food Item": "Chicken finger",
+        "gID": 46,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
         "Temperature (F)": 400,
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Calamari",
-        "gID": 51,
+        "Food Item": "Sea bass",
+        "gID": 42,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
-        "Temperature (F)": 380,
+        "Temperature (F)": 390,
+        "Time (minutes)": 5
+    },
+    {
+        "Food Item": "Mushrooms",
+        "gID": 17,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 375,
+        "Time (minutes)": 10
+    },
+    {
+        "Food Item": "Shrimp",
+        "gID": 38,
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 400,
+        "Time (minutes)": 5
+    },
+    {
+        "Food Item": "Snapper",
+        "gID": 41,
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 390,
         "Time (minutes)": 8
     },
     {
-        "Food Item": "Chicken thighs",
-        "gID": 53,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 380,
-        "Time (minutes)": 23
-    },
-    {
-        "Food Item": "Duck",
-        "gID": 56,
+        "Food Item": "Chicken legs",
+        "gID": 7,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
         "Temperature (F)": 400,
-        "Time (minutes)": 60
-    },
-    {
-        "Food Item": "Chicken wings",
-        "gID": 57,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 400,
-        "Time (minutes)": 20
+        "Time (minutes)": 24
     },
     {
         "Food Item": "Chicken nuggets",
@@ -400,20 +384,36 @@
         "Time (minutes)": 13
     },
     {
-        "Food Item": "Chicken",
-        "gID": 59,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 360,
-        "Time (minutes)": 60
-    },
-    {
-        "Food Item": "Chicken tenderloin",
-        "gID": 60,
+        "Food Item": "Chicken patty",
+        "gID": 112,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
         "Temperature (F)": 375,
+        "Time (minutes)": 16
+    },
+    {
+        "Food Item": "Chicken quesadilla",
+        "gID": 114,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 360,
         "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Chicken samosa",
+        "gID": 110,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 390,
+        "Time (minutes)": 10
+    },
+    {
+        "Food Item": "Chicken sausage",
+        "gID": 64,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 370,
+        "Time (minutes)": 13
     },
     {
         "Food Item": "T-bone",
@@ -440,20 +440,20 @@
         "Time (minutes)": 13
     },
     {
-        "Food Item": "Chicken sausage",
-        "gID": 64,
+        "Food Item": "Chicken tenderloin",
+        "gID": 60,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 370,
-        "Time (minutes)": 13
+        "Temperature (F)": 375,
+        "Time (minutes)": 8
     },
     {
-        "Food Item": "Turkey sausage",
-        "gID": 65,
+        "Food Item": "Chicken thighs",
+        "gID": 53,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 350,
-        "Time (minutes)": 12
+        "Temperature (F)": 380,
+        "Time (minutes)": 23
     },
     {
         "Food Item": "Beef sausage",
@@ -504,20 +504,20 @@
         "Time (minutes)": 10
     },
     {
+        "Food Item": "Chicken wings",
+        "gID": 57,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 400,
+        "Time (minutes)": 20
+    },
+    {
         "Food Item": "Cutlets",
         "gID": 72,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
         "Temperature (F)": 400,
         "Time (minutes)": 9
-    },
-    {
-        "Food Item": "Chicken breast",
-        "gID": 73,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 360,
-        "Time (minutes)": 18
     },
     {
         "Food Item": "Mozzarella sticks",
@@ -632,12 +632,12 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Spinach",
-        "gID": 93,
+        "Food Item": "Potato",
+        "gID": 16,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 360,
-        "Time (minutes)": 5
+        "Temperature (F)": 400,
+        "Time (minutes)": 20
     },
     {
         "Food Item": "Beef tenderloin",
@@ -648,12 +648,12 @@
         "Time (minutes)": 25
     },
     {
-        "Food Item": "Zucchini",
-        "gID": 95,
+        "Food Item": "Spinach",
+        "gID": 93,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 9
+        "Temperature (F)": 360,
+        "Time (minutes)": 5
     },
     {
         "Food Item": "Scalloped potatoes",
@@ -672,36 +672,36 @@
         "Time (minutes)": 11
     },
     {
-        "Food Item": "Asparagus",
-        "gID": 98,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 7
-    },
-    {
-        "Food Item": "Bell peppers",
-        "gID": 99,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 12
-    },
-    {
-        "Food Item": "Butternut squash",
-        "gID": 100,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 20
-    },
-    {
-        "Food Item": "Kale chip",
-        "gID": 101,
+        "Food Item": "Squash",
+        "gID": 131,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 375,
-        "Time (minutes)": 4
+        "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Tofu",
+        "gID": 132,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 13
+    },
+    {
+        "Food Item": "Tomato",
+        "gID": 15,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 350,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Veggie burger",
+        "gID": 12,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 6
     },
     {
         "Food Item": "Sword fish",
@@ -728,84 +728,20 @@
         "Time (minutes)": 17
     },
     {
-        "Food Item": "Popcorn shrimp",
-        "gID": 107,
+        "Food Item": "Tilapia",
+        "gID": 40,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
-        "Temperature (F)": 360,
-        "Time (minutes)": 8
+        "Temperature (F)": 375,
+        "Time (minutes)": 7
     },
     {
-        "Food Item": "Green beans",
-        "gID": 108,
+        "Food Item": "Veggie samosa",
+        "gID": 22,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 370,
-        "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Turkey leg",
-        "gID": 109,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 400,
-        "Time (minutes)": 35
-    },
-    {
-        "Food Item": "Chicken samosa",
-        "gID": 110,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 390,
-        "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Beef samosa",
-        "gID": 111,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 390,
-        "Time (minutes)": 11
-    },
-    {
-        "Food Item": "Chicken patty",
-        "gID": 112,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 375,
-        "Time (minutes)": 16
-    },
-    {
-        "Food Item": "Turkey patty",
-        "gID": 113,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 380,
-        "Time (minutes)": 11
-    },
-    {
-        "Food Item": "Chicken quesadilla",
-        "gID": 114,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
-        "Temperature (F)": 360,
-        "Time (minutes)": 8
-    },
-    {
-        "Food Item": "Beef quesadilla",
-        "gID": 115,
-        "Cookbook": "Standard",
-        "Food Category": "Meat",
-        "Temperature (F)": 375,
-        "Time (minutes)": 6
-    },
-    {
-        "Food Item": "Turkey breast",
-        "gID": 117,
-        "Cookbook": "Standard",
-        "Food Category": "Poultry",
         "Temperature (F)": 350,
-        "Time (minutes)": 40
+        "Time (minutes)": 18
     },
     {
         "Food Item": "Drumsticks",
@@ -816,12 +752,52 @@
         "Time (minutes)": 24
     },
     {
-        "Food Item": "Turkey wings",
-        "gID": 119,
+        "Food Item": "Duck",
+        "gID": 56,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 380,
-        "Time (minutes)": 27
+        "Temperature (F)": 400,
+        "Time (minutes)": 60
+    },
+    {
+        "Food Item": "Beef samosa",
+        "gID": 111,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 390,
+        "Time (minutes)": 11
+    },
+    {
+        "Food Item": "Strip",
+        "gID": 1,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 370,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Tender",
+        "gID": 14,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 400,
+        "Time (minutes)": 10
+    },
+    {
+        "Food Item": "Turkey breast",
+        "gID": 117,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 350,
+        "Time (minutes)": 40
+    },
+    {
+        "Food Item": "Beef quesadilla",
+        "gID": 115,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 375,
+        "Time (minutes)": 6
     },
     {
         "Food Item": "Turkey burgers",
@@ -832,12 +808,36 @@
         "Time (minutes)": 12
     },
     {
-        "Food Item": "Chicken burgers",
-        "gID": 121,
+        "Food Item": "Turkey leg",
+        "gID": 109,
         "Cookbook": "Standard",
         "Food Category": "Poultry",
-        "Temperature (F)": 375,
-        "Time (minutes)": 15
+        "Temperature (F)": 400,
+        "Time (minutes)": 35
+    },
+    {
+        "Food Item": "Turkey patty",
+        "gID": 113,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 380,
+        "Time (minutes)": 11
+    },
+    {
+        "Food Item": "Turkey sausage",
+        "gID": 65,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 350,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Turkey wings",
+        "gID": 119,
+        "Cookbook": "Standard",
+        "Food Category": "Poultry",
+        "Temperature (F)": 380,
+        "Time (minutes)": 27
     },
     {
         "Food Item": "Whole ham",
@@ -864,12 +864,12 @@
         "Time (minutes)": 3
     },
     {
-        "Food Item": "Crab",
-        "gID": 125,
+        "Food Item": "Tuna",
+        "gID": 37,
         "Cookbook": "Standard",
         "Food Category": "Seafood",
-        "Temperature (F)": 370,
-        "Time (minutes)": 6
+        "Temperature (F)": 380,
+        "Time (minutes)": 9
     },
     {
         "Food Item": "Hamburgers",
@@ -896,28 +896,28 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Eggplant parmesan",
-        "gID": 130,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 380,
-        "Time (minutes)": 12
-    },
-    {
-        "Food Item": "Squash",
-        "gID": 131,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 375,
-        "Time (minutes)": 8
-    },
-    {
-        "Food Item": "Tofu",
-        "gID": 132,
+        "Food Item": "Veggie slider",
+        "gID": 11,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 400,
-        "Time (minutes)": 13
+        "Time (minutes)": 14
+    },
+    {
+        "Food Item": "Yams",
+        "gID": 10,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 370,
+        "Time (minutes)": 40
+    },
+    {
+        "Food Item": "Zucchini",
+        "gID": 95,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 9
     },
     {
         "Food Item": "Veggie quesadilla",
@@ -928,6 +928,62 @@
         "Time (minutes)": 5
     },
     {
+        "Food Item": "Frozen beef dumpling",
+        "gID": 106,
+        "Cookbook": "Frozen",
+        "Food Category": "Other",
+        "Temperature (F)": 375,
+        "Time (minutes)": 11
+    },
+    {
+        "Food Item": "Frozen chicken dumpling",
+        "gID": 116,
+        "Cookbook": "Frozen",
+        "Food Category": "Other",
+        "Temperature (F)": 400,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Frozen chicken nuggets",
+        "gID": 58,
+        "Cookbook": "Frozen",
+        "Food Category": "Poultry",
+        "Temperature (F)": 390,
+        "Time (minutes)": 16
+    },
+    {
+        "Food Item": "Frozen corn dogs",
+        "gID": 97,
+        "Cookbook": "Frozen",
+        "Food Category": "Snacks",
+        "Temperature (F)": 385,
+        "Time (minutes)": 9
+    },
+    {
+        "Food Item": "Frozen fish sticks",
+        "gID": 47,
+        "Cookbook": "Frozen",
+        "Food Category": "Seafood",
+        "Temperature (F)": 375,
+        "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Frozen hash browns",
+        "gID": 76,
+        "Cookbook": "Frozen",
+        "Food Category": "Snacks",
+        "Temperature (F)": 400,
+        "Time (minutes)": 15
+    },
+    {
+        "Food Item": "Frozen mozzarella sticks",
+        "gID": 35,
+        "Cookbook": "Frozen",
+        "Food Category": "Snacks",
+        "Temperature (F)": 375,
+        "Time (minutes)": 12
+    },
+    {
         "Food Item": "Frozen pizza rolls",
         "gID": 9,
         "Cookbook": "Frozen",
@@ -936,11 +992,27 @@
         "Time (minutes)": 20
     },
     {
-        "Food Item": "Frozen mozzarella sticks",
-        "gID": 35,
+        "Food Item": "Frozen popcorn shrimp",
+        "gID": 107,
+        "Cookbook": "Frozen",
+        "Food Category": "Seafood",
+        "Temperature (F)": 390,
+        "Time (minutes)": 15
+    },
+    {
+        "Food Item": "Frozen pork dumpling",
+        "gID": 39,
         "Cookbook": "Frozen",
         "Food Category": "Snacks",
-        "Temperature (F)": 375,
+        "Temperature (F)": 400,
+        "Time (minutes)": 12
+    },
+    {
+        "Food Item": "Frozen pot stickers",
+        "gID": 129,
+        "Cookbook": "Frozen",
+        "Food Category": "Other",
+        "Temperature (F)": 400,
         "Time (minutes)": 12
     },
     {
@@ -952,30 +1024,6 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Frozen pork dumpling",
-        "gID": 39,
-        "Cookbook": "Frozen",
-        "Food Category": "Snacks",
-        "Temperature (F)": 400,
-        "Time (minutes)": 12
-    },
-    {
-        "Food Item": "Frozen fish sticks",
-        "gID": 47,
-        "Cookbook": "Frozen",
-        "Food Category": "Seafood",
-        "Temperature (F)": 375,
-        "Time (minutes)": 8
-    },
-    {
-        "Food Item": "Frozen chicken nuggets",
-        "gID": 58,
-        "Cookbook": "Frozen",
-        "Food Category": "Poultry",
-        "Temperature (F)": 390,
-        "Time (minutes)": 16
-    },
-    {
         "Food Item": "Frozen tater tots",
         "gID": 75,
         "Cookbook": "Frozen",
@@ -984,60 +1032,12 @@
         "Time (minutes)": 23
     },
     {
-        "Food Item": "Frozen hash browns",
-        "gID": 76,
-        "Cookbook": "Frozen",
-        "Food Category": "Snacks",
-        "Temperature (F)": 400,
-        "Time (minutes)": 15
-    },
-    {
-        "Food Item": "Frozen corn dogs",
-        "gID": 97,
-        "Cookbook": "Frozen",
-        "Food Category": "Snacks",
-        "Temperature (F)": 385,
-        "Time (minutes)": 9
-    },
-    {
         "Food Item": "Frozen vegetable dumpling",
         "gID": 105,
         "Cookbook": "Frozen",
         "Food Category": "Other",
         "Temperature (F)": 350,
         "Time (minutes)": 13
-    },
-    {
-        "Food Item": "Frozen beef dumpling",
-        "gID": 106,
-        "Cookbook": "Frozen",
-        "Food Category": "Other",
-        "Temperature (F)": 375,
-        "Time (minutes)": 11
-    },
-    {
-        "Food Item": "Frozen popcorn shrimp",
-        "gID": 107,
-        "Cookbook": "Frozen",
-        "Food Category": "Seafood",
-        "Temperature (F)": 390,
-        "Time (minutes)": 15
-    },
-    {
-        "Food Item": "Frozen chicken dumpling",
-        "gID": 116,
-        "Cookbook": "Frozen",
-        "Food Category": "Other",
-        "Temperature (F)": 400,
-        "Time (minutes)": 12
-    },
-    {
-        "Food Item": "Frozen pot stickers",
-        "gID": 129,
-        "Cookbook": "Frozen",
-        "Food Category": "Other",
-        "Temperature (F)": 400,
-        "Time (minutes)": 12
     },
     {
         "Food Item": "Tomato",

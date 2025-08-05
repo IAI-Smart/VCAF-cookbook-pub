@@ -1,28 +1,28 @@
-# Food List generated 25-08-05 18:55 UTC
+# Food List generated 25-08-05 19:16 UTC
 s_food =
-    Strip (Steak | Steaks) ? :001 | #001
+    ( Chicken | Chickens )   :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
     ( Garlic | Parmesan ) ? ( Breadsticks | Breadstick )  :089 | #089
     ( Black Bean | beef | chicken | turkey | veggie ) ? ( burrito | burritos )  :096 | #096
     ( Cashews | Cashew )  :003 | #003
-    ( Chickpeas | Chickpea ) :006 | #006
-    ( Chicken) ? ( leg | legs )  :007 | #007
+    ( Asparagus )  :098 | #098
+    ( Chicken ) ? ( Breast | Breasts ) ( fillet | fillets ) ?   :073 | #073
     ( Mini ) ? ( Corn (Dogs | Dog ))  :097 | #097
-    ( Sweet ) ? ( Yam | Yams ) ( wedges | fries) ?  :010 | #010
-    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( slider | sliders) ?  :011 | #011
-    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( patty | patties) ?   :012 | #012
-    donuts :133 | #133
-    Chicken ? (Tender | Tenders) :014 | #014
-    ( red ) ? ( Tomato | Tomatoes )   :015 | #015
-    ( sweet | red ) ? ( Potato | Potatoes )   :016 | #016
-    ( Mushroom | Mushrooms )   :017 | #017
-    ( Eggplant | Eggplants )  :018 | #018
-    ( Corn | Corns ) ( (on the)? (cob|cobs) | kernels | kernel ) ?   :019 | #019
-    ( Cauliflower | Cauliflowers )  (steak | steaks | floret | florets)?  :020 | #020
-    ( Carrots | Carrot )   :021 | #021
-    ( Potato | Vegetable) ? ( Samosa | Samosas )   :022 | #022
-    ( Brussel ( Sprouts | Sprout ))   :023 | #023
+    (Beet | Beets) :048 | #048
+    ( Bell peppers )  :099 | #099
     ( Broccoli | Broccolis ) ( Florets | Floret ) ?   :024 | #024
+    donuts :133 | #133
+    ( Chicken ) ( burger | burgers )  :121 | #121
+    ( Brussel ( Sprouts | Sprout ))   :023 | #023
+    ( Butternut squash )  :100 | #100
+    ( Carrots | Carrot )   :021 | #021
+    ( Cauliflower | Cauliflowers )  (steak | steaks | floret | florets)?  :020 | #020
+    ( Chickpeas | Chickpea ) :006 | #006
+    ( Corn | Corns ) ( (on the)? (cob|cobs) | kernels | kernel ) ?   :019 | #019
+    ( Eggplant | Eggplants )  :018 | #018
+    eggplant (parmesans | parmesan) :130 | #130
+    (Green ( beans | bean ))  :108 | #108
+    ( Kale (Chip | Chips))  :101 | #101
     ( Beef ) ? ( Patties | Pattie )  :025 | #025
     ( Turkey | Beef ) ? ( Meatloaf | Meatloaves ) ( slices | slice ) ?   :026 | #026
     ( Beef ) ? ( Meatballs | Meatball )   :027 | #027
@@ -33,38 +33,38 @@ s_food =
     (Garlic (  Bread | Breads ))   :081 | #081
     ( Garlic (Knots | Knot ))   :082 | #082
     ( macadamia ) ( nuts | nut )? :005 | #005
-    ( Tuna ) ( Steak | Steaks | Fillet | Fillets | Medallions | Medallion ) ?   :037 | #037
-    ( Shrimp | Shrimps )  :038 | #038
-    ( tilapia ) ( Steak | Steaks | fillet | fillets ) ?  :040 | #040
-    ( snapper ) ( Steak | Steaks | fillet | fillets ) ?   :041 | #041
-    ( sea  bass ) ( Steak | Steaks | fillet | fillets ) ?  :042 | #042
-    ( Salmon ) ( Steak | Steaks | fillet | fillets ) ?  :043 | #043
-    ( Prawns | Prawn )  :044 | #044
-    ( Lobster | Lobsters ) ( tails | tail ) ?  :045 | #045
-    ( Chicken ( Finger |  Fingers ))  :046 | #046
-    ( Fish ( Sticks | Stick ))   :047 | #047
-    (Beet | Beets) :048 | #048
-    Crab (Cakes | Cake )   :050 | #050
     ( Calamari ) ( Rings | Ring ) ?  :051 | #051
-    ( Chicken ) ? ( Thighs | Thigh ) ( Fillets | Fillet ) ?   :053 | #053
-    ( Duck | Ducks ) :056 | #056
-    ( Chicken ) ? ( Wings | Wing )  :057 | #057
+    Crab (Leg | Legs) ? : 125 | #125
+    Crab (Cakes | Cake )   :050 | #050
+    ( Fish ( Sticks | Stick ))   :047 | #047
+    ( Lobster | Lobsters ) ( tails | tail ) ?  :045 | #045
+    ( Popcorn (Shrimp | Shrimps))  :107 | #107
+    ( Prawns | Prawn )  :044 | #044
+    ( Salmon ) ( Steak | Steaks | fillet | fillets ) ?  :043 | #043
+    ( Chicken ( Finger |  Fingers ))  :046 | #046
+    ( sea  bass ) ( Steak | Steaks | fillet | fillets ) ?  :042 | #042
+    ( Mushroom | Mushrooms )   :017 | #017
+    ( Shrimp | Shrimps )  :038 | #038
+    ( snapper ) ( Steak | Steaks | fillet | fillets ) ?   :041 | #041
+    ( Chicken) ? ( leg | legs )  :007 | #007
     ( Chicken (Nugget | Nuggets ))   :058 | #058
-    ( Chicken | Chickens )   :059 | #059
-    ( Chicken) ? ( tenderloin | tenderloins ) ( Steaks | Steak ) ?   :060 | #060
+    (Chicken) ( Patties | Pattie )  :112 | #112
+    ( chicken ) (Quesadilla | Quesadillas )   :114 | #114
+    ( Chicken ) ( Samosa | Samosas )   :110 | #110
+    ( Chicken ) ? ( frank | franks | Sausage | Sausages)  :064 | #064
     ( T-bone ) ( Steak | Steaks ) ?   :061 | #061
     (  Garlic Butter ) ? ( Steak | Steaks ) ( Strips | Strip ) ?   :062 | #062
     ( Sirloin | Sirloins ) ( Steak | Steaks) ?   :063 | #063
-    ( Chicken ) ? ( frank | franks | Sausage | Sausages)  :064 | #064
-    ( Turkey ) ( frank | franks | Sausage | Sausages)  :065 | #065
+    ( Chicken) ? ( tenderloin | tenderloins ) ( Steaks | Steak ) ?   :060 | #060
+    ( Chicken ) ? ( Thighs | Thigh ) ( Fillets | Fillet ) ?   :053 | #053
     ( Beef ) ( frank | franks | Sausage | Sausages)  :066 | #066
     ( Beef ) ? ( Ribs | Rib )  :067 | #067
     ( Lamb ) ( Ribs | Rib )  :068 | #068
     ( Beef ) ? ( burger | burgers )  :069 | #069
     ( Pork) ? ( tenderloin | tenderloins ) ( Steaks | Steak ) ?   :070 | #070
     ( Beef ) ? ( Filet (Mignon | Mignons) )    :071 | #071
+    ( Chicken ) ? ( Wings | Wing )  :057 | #057
     ( Chicken)? (Parmesan ) ? ( Cutlets | Cutlet )  :072 | #072
-    ( Chicken ) ? ( Breast | Breasts ) ( fillet | fillets ) ?   :073 | #073
     Mozzarella ( Sticks | Stick )   :035 | #035
     (noodles )   :092 | #092
     Onion ( Rings | Ring )   :034 | #034
@@ -79,51 +79,51 @@ s_food =
     ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
     ( Potato (Wedges | Wedge ))  :074 | #074
     ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
-    (Spinach )   :093 | #093
+    ( sweet | red ) ? ( Potato | Potatoes )   :016 | #016
     ( Beef ) ? ( tenderloin | tenderloins ) ( Steaks | Steak ) ?   :094 | #094
-    ( zucchini )   :095 | #095
+    (Spinach )   :093 | #093
     ( Scalloped ( Potatoes | Potato ))   :013 | #013
     ( Tater (Tots | Tot ))   :075 | #075
-    ( Asparagus )  :098 | #098
-    ( Bell peppers )  :099 | #099
-    ( Butternut squash )  :100 | #100
-    ( Kale (Chip | Chips))  :101 | #101
+    squash :131 | #131
+    tofu :132 | #132
+    ( red ) ? ( Tomato | Tomatoes )   :015 | #015
+    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( patty | patties) ?   :012 | #012
     ( Sword Fish )  :102 | #102
     ( London Broil )  :103 | #103
     ( Rack of Lamb )  :104 | #104
-    ( Popcorn (Shrimp | Shrimps))  :107 | #107
-    (Green ( beans | bean ))  :108 | #108
-    Turkey  ( leg | legs )  :109 | #109
-    ( Chicken ) ( Samosa | Samosas )   :110 | #110
-    ( beef ) ( Samosa | Samosas )   :111 | #111
-    (Chicken) ( Patties | Pattie )  :112 | #112
-    (Turkey ) ( Patties | Pattie )  :113 | #113
-    ( chicken ) (Quesadilla | Quesadillas )   :114 | #114
-    ( beef ) (Quesadilla | Quesadillas )   :115 | #115
-    ( Turkey | Turkeys ) ( Breast | Breasts ) ?   :117 | #117
+    ( tilapia ) ( Steak | Steaks | fillet | fillets ) ?  :040 | #040
+    ( Potato | Vegetable) ? ( Samosa | Samosas )   :022 | #022
     (Chicken | Turkey) ? (Drumstick | Drumsticks)  :118 | #118
-    ( Turkey ) ( Wings | Wing )  :119 | #119
+    ( Duck | Ducks ) :056 | #056
+    ( beef ) ( Samosa | Samosas )   :111 | #111
+    Strip (Steak | Steaks) ? :001 | #001
+    Chicken ? (Tender | Tenders) :014 | #014
+    ( Turkey | Turkeys ) ( Breast | Breasts ) ?   :117 | #117
+    ( beef ) (Quesadilla | Quesadillas )   :115 | #115
     ( Turkey ) ( burger | burgers )  :120 | #120
-    ( Chicken ) ( burger | burgers )  :121 | #121
+    Turkey  ( leg | legs )  :109 | #109
+    (Turkey ) ( Patties | Pattie )  :113 | #113
+    ( Turkey ) ( frank | franks | Sausage | Sausages)  :065 | #065
+    ( Turkey ) ( Wings | Wing )  :119 | #119
     ( Whole ) ? ( Ham )   :122 | #122
     ( Pork | Porks ) ( Chops | Chop ) ?   :123 | #123
     ( Hot Dog | Hot Dogs ) : 124 | #124
-    Crab (Leg | Legs) ? : 125 | #125
+    ( Tuna ) ( Steak | Steaks | Fillet | Fillets | Medallions | Medallion ) ?   :037 | #037
     Hamburger | Hamburgers : 126 | #126
     Babyback ? Pork ? (Rib | Ribs) : 127 | #127
     ( pork ) ? ( frank | franks | Sausage | Sausages)  : 128 | #128
-    eggplant (parmesans | parmesan) :130 | #130
-    squash :131 | #131
-    tofu :132 | #132
+    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( slider | sliders) ?  :011 | #011
+    ( Sweet ) ? ( Yam | Yams ) ( wedges | fries) ?  :010 | #010
+    ( zucchini )   :095 | #095
     ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
-    ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
-    ( Shrimp ) ? ( Dumplings | Dumpling )  :036 | #036
-    ( Pork ) ( Dumplings | Dumpling ) :039 | #039
-    ( Hash ( Browns | Brown ))   :076 | #076
-    ( Vegetable ) ( Dumplings | Dumpling )   :105 | #105
     ( beef) ( Dumplings | Dumpling )   :106 | #106
     ( Chicken ) ( Dumplings | Dumpling )   :116 | #116
+    ( Hash ( Browns | Brown ))   :076 | #076
+    ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
+    ( Pork ) ( Dumplings | Dumpling ) :039 | #039
     Pot (sticker | stickers) : 129 | #129
+    ( Shrimp ) ? ( Dumplings | Dumpling )  :036 | #036
+    ( Vegetable ) ( Dumplings | Dumpling )   :105 | #105
     ( beef ) ? ( Jerky ) ( Strip | Strips ) ?   :029 | #029
     (Apple | Apples) (Slice | Slices) ? :049 | #049
     (Banana | Bananas) (Slice | Slices) ? :052 | #052
