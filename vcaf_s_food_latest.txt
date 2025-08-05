@@ -1,17 +1,17 @@
-# Food List generated 25-08-05 17:12 UTC
+# Food List generated 25-08-05 17:43 UTC
 s_food =
     Strip (Steak | Steaks) ? :001 | #001
-    ( Pecans | Pecan )  :002 | #002
+    ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
+    ( Garlic | Parmesan ) ? ( Breadsticks | Breadstick )  :089 | #089
+    ( Black Bean | beef | chicken | turkey | veggie ) ? ( burrito | burritos )  :096 | #096
     ( Cashews | Cashew )  :003 | #003
-    ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
-    ( macadamia ) ( nuts | nut )? :005 | #005
     ( Chickpeas | Chickpea ) :006 | #006
     ( Chicken) ? ( leg | legs )  :007 | #007
-    ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (pockets)   :008 | #008
+    ( Mini ) ? ( Corn (Dogs | Dog ))  :097 | #097
     ( Sweet ) ? ( Yam | Yams ) ( wedges | fries) ?  :010 | #010
     ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( slider | sliders) ?  :011 | #011
     ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( patty | patties) ?   :012 | #012
-    ( Scalloped ( Potatoes | Potato ))   :013 | #013
+    donuts :133 | #133
     Chicken ? (Tender | Tenders) :014 | #014
     ( red ) ? ( Tomato | Tomatoes )   :015 | #015
     ( sweet | red ) ? ( Potato | Potatoes )   :016 | #016
@@ -29,10 +29,10 @@ s_food =
     ( Lamb | Lambs )? ( Chops | Chop )    :028 | #028
     ( Ground Beef )   :030 | #030
     ( Turkey | Beef ) ? Bacon ( Strips ) ? (Thick Cut)?  :031 | #031
-    ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
-    ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
-    Onion ( Rings | Ring )   :034 | #034
-    Mozzarella ( Sticks | Stick )   :035 | #035
+    ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
+    (Garlic (  Bread | Breads ))   :081 | #081
+    ( Garlic (Knots | Knot ))   :082 | #082
+    ( macadamia ) ( nuts | nut )? :005 | #005
     ( Tuna ) ( Steak | Steaks | Fillet | Fillets | Medallions | Medallion ) ?   :037 | #037
     ( Shrimp | Shrimps )  :038 | #038
     ( tilapia ) ( Steak | Steaks | fillet | fillets ) ?  :040 | #040
@@ -65,25 +65,25 @@ s_food =
     ( Beef ) ? ( Filet (Mignon | Mignons) )    :071 | #071
     ( Chicken)? (Parmesan ) ? ( Cutlets | Cutlet )  :072 | #072
     ( Chicken ) ? ( Breast | Breasts ) ( fillet | fillets ) ?   :073 | #073
-    ( Potato (Wedges | Wedge ))  :074 | #074
-    ( Tater (Tots | Tot ))   :075 | #075
-    ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
+    Mozzarella ( Sticks | Stick )   :035 | #035
+    (noodles )   :092 | #092
+    Onion ( Rings | Ring )   :034 | #034
     ( Pop | Chocolate ) ? ( Tarts | Tart )  :079 | #079
+    ( Pecans | Pecan )  :002 | #002
     ( Cheese | Pepperoni | Margherita | BBQ Chicken | Veggie ) ? ( Pizza | Pizzas )   :080 | #080
-    (Garlic (  Bread | Breads ))   :081 | #081
-    ( Garlic (Knots | Knot ))   :082 | #082
+    ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (pockets)   :008 | #008
     ( Egg (Tart | Tarts ))   :084 | #084
     ( Chocolate Chip? | Peanut Butter? | Oatmeal | Sugar ) ? ( Cookies | Cookie )   :085 | #085
     ( Cinnamon (Roll | Rolls ))  :086 | #086
     ( Chocolate | Vanilla ) ? ( Brownies | Brownie )   :088 | #088
-    ( Garlic | Parmesan ) ? ( Breadsticks | Breadstick )  :089 | #089
-    ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
-    (noodles )   :092 | #092
+    ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
+    ( Potato (Wedges | Wedge ))  :074 | #074
+    ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
     (Spinach )   :093 | #093
     ( Beef ) ? ( tenderloin | tenderloins ) ( Steaks | Steak ) ?   :094 | #094
     ( zucchini )   :095 | #095
-    ( Black Bean | beef | chicken | turkey | veggie ) ? ( burrito | burritos )  :096 | #096
-    ( Mini ) ? ( Corn (Dogs | Dog ))  :097 | #097
+    ( Scalloped ( Potatoes | Potato ))   :013 | #013
+    ( Tater (Tots | Tot ))   :075 | #075
     ( Asparagus )  :098 | #098
     ( Bell peppers )  :099 | #099
     ( Butternut squash )  :100 | #100
@@ -115,7 +115,7 @@ s_food =
     eggplant (parmesans | parmesan) :130 | #130
     squash :131 | #131
     tofu :132 | #132
-    donuts :133 | #133
+    ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
     ( Shrimp ) ? ( Dumplings | Dumpling )  :036 | #036
     ( Pork ) ( Dumplings | Dumpling ) :039 | #039
