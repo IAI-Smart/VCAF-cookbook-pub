@@ -168,20 +168,20 @@
         "Time (minutes)": 12
     },
     {
+        "Food Item": "Fries",
+        "gID": 78,
+        "Cookbook": "Standard",
+        "Food Category": "Crisps",
+        "Temperature (F)": 380,
+        "Time (minutes)": 13
+    },
+    {
         "Food Item": "Green beans",
         "gID": 108,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 370,
         "Time (minutes)": 10
-    },
-    {
-        "Food Item": "Kale chip",
-        "gID": 101,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 375,
-        "Time (minutes)": 4
     },
     {
         "Food Item": "Bacon",
@@ -232,12 +232,12 @@
         "Time (minutes)": 11
     },
     {
-        "Food Item": "Fries",
-        "gID": 78,
+        "Food Item": "Kale chip",
+        "gID": 101,
         "Cookbook": "Standard",
-        "Food Category": "Crisps",
-        "Temperature (F)": 380,
-        "Time (minutes)": 13
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 375,
+        "Time (minutes)": 4
     },
     {
         "Food Item": "Garlic bread",
@@ -608,20 +608,20 @@
         "Time (minutes)": 3
     },
     {
+        "Food Item": "Potato",
+        "gID": 16,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 20
+    },
+    {
         "Food Item": "Potato chips",
         "gID": 4,
         "Cookbook": "Standard",
         "Food Category": "Crisps",
         "Temperature (F)": 325,
         "Time (minutes)": 16
-    },
-    {
-        "Food Item": "Potato wedges",
-        "gID": 74,
-        "Cookbook": "Standard",
-        "Food Category": "Crisps",
-        "Temperature (F)": 400,
-        "Time (minutes)": 15
     },
     {
         "Food Item": "Quiche",
@@ -632,12 +632,12 @@
         "Time (minutes)": 10
     },
     {
-        "Food Item": "Potato",
-        "gID": 16,
+        "Food Item": "Potato wedges",
+        "gID": 74,
         "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
+        "Food Category": "Crisps",
         "Temperature (F)": 400,
-        "Time (minutes)": 20
+        "Time (minutes)": 15
     },
     {
         "Food Item": "Meatballs",
@@ -664,20 +664,20 @@
         "Time (minutes)": 34
     },
     {
-        "Food Item": "Tater tots",
-        "gID": 75,
-        "Cookbook": "Standard",
-        "Food Category": "Crisps",
-        "Temperature (F)": 400,
-        "Time (minutes)": 11
-    },
-    {
         "Food Item": "Squash",
         "gID": 131,
         "Cookbook": "Standard",
         "Food Category": "Veggies/Fruit",
         "Temperature (F)": 375,
         "Time (minutes)": 8
+    },
+    {
+        "Food Item": "Tater tots",
+        "gID": 75,
+        "Cookbook": "Standard",
+        "Food Category": "Crisps",
+        "Temperature (F)": 400,
+        "Time (minutes)": 11
     },
     {
         "Food Item": "Tofu",

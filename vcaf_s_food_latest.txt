@@ -1,4 +1,4 @@
-# Food List generated 25-08-05 19:39 UTC
+# Food List generated 25-08-05 20:14 UTC
 s_food =
     ( Chicken | Chickens )   :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
@@ -21,15 +21,15 @@ s_food =
     ( Corn | Corns ) ( (on the)? (cob|cobs) | kernels | kernel ) ?   :019 | #019
     ( Eggplant | Eggplants )  :018 | #018
     eggplant (parmesans | parmesan) :130 | #130
+    ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
     (Green ( beans | bean ))  :108 | #108
-    ( Kale (Chip | Chips))  :101 | #101
     ( Turkey | Beef ) ? Bacon ( Strips ) ? (Thick Cut)?  :031 | #031
     ( Beef ) ? ( burger | burgers )  :069 | #069
     ( Beef ) ? ( Patties | Pattie )  :025 | #025
     ( beef ) (Quesadilla | Quesadillas )   :115 | #115
     ( Beef ) ? ( Ribs | Rib )  :067 | #067
     ( beef ) ( Samosa | Samosas )   :111 | #111
-    ( French | Sweet Potato | Carrot ) ? ( Fries )   :078 | #078
+    ( Kale (Chip | Chips))  :101 | #101
     (Garlic (  Bread | Breads ))   :081 | #081
     ( Garlic (Knots | Knot ))   :082 | #082
     ( macadamia ) ( nuts | nut )? :005 | #005
@@ -76,15 +76,15 @@ s_food =
     ( Chocolate Chip? | Peanut Butter? | Oatmeal | Sugar ) ? ( Cookies | Cookie )   :085 | #085
     ( Egg (Tart | Tarts ))   :084 | #084
     ( Pop | Chocolate ) ? ( Tarts | Tart )  :079 | #079
-    ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
-    ( Potato (Wedges | Wedge ))  :074 | #074
-    ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
     ( sweet | red ) ? ( Potato | Potatoes )   :016 | #016
+    ( Sweet ) ? ( potato ( chips | chip ))  :004 | #004
+    ( Spinach | Mushroom | Broccoli | Tomato ) ? ( Quiche | Quiches )   :033 | #033
+    ( Potato (Wedges | Wedge ))  :074 | #074
     ( Beef ) ? ( Meatballs | Meatball )   :027 | #027
     (Spinach )   :093 | #093
     ( Scalloped ( Potatoes | Potato ))   :013 | #013
-    ( Tater (Tots | Tot ))   :075 | #075
     squash :131 | #131
+    ( Tater (Tots | Tot ))   :075 | #075
     tofu :132 | #132
     ( red ) ? ( Tomato | Tomatoes )   :015 | #015
     ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( patty | patties) ?   :012 | #012
