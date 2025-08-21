@@ -1,4 +1,4 @@
-# Food List generated 25-08-21 13:03 UTC
+# Food List generated 25-08-21 13:45 UTC
 s_food =
     ( Chicken | Chickens )   :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
@@ -117,7 +117,7 @@ s_food =
     ( zucchini )   :095 | #095
     ( Black Bean | veggie ) ? (Quesadilla | Quesadillas )   :032 | #032
     ( beef) ( Dumplings | Dumpling )   :106 | #106
-    ( Chicken (Nugget | Nuggets ))   :058 | #058
+    ( Chicken ) ( Dumplings | Dumpling ) :116 | #116
     ( Hash ( Browns | Brown ))   :076 | #076
     ( Mini | Pepperoni | Cheese | Veggie | Margherita | Stuffed ) ? (Pizza) (Rolls)   :009 | #009
     ( Pork ) ( Dumplings | Dumpling ) :039 | #039
