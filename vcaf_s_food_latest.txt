@@ -1,4 +1,4 @@
-# Food List generated 25-08-21 03:51 UTC
+# Food List generated 25-08-21 04:15 UTC
 s_food =
     ( Chicken | Chickens )   :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit )   :090 | #090
