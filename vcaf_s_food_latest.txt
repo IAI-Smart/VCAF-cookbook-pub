@@ -1,4 +1,4 @@
-# Food List generated 25-09-08 19:33 UTC
+# Food List generated 25-09-08 20:12 UTC
 s_food =
     ( Chicken | Chickens ) :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit ) :090 | #090
@@ -112,10 +112,13 @@ s_food =
     ( Garlic Butter ) ? ( Steak | Steaks ) ( Strips | Strip ) ? :062 | #062
     ( T-bone ) ( Steak | Steaks ) ? :061 | #061
     ( Whole ) ? ( Ham ) :122 | #122
-    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( slider | sliders) ? :011 | #011
+    ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers ) ?) ( slider | sliders)  :011 | #011
     ( Sweet ) ? ( Yam | Yams ) ( wedges | fries) ? :010 | #010
     ( zucchini ) :095 | #095
     ( Black Bean | veggie ) ? (Quesadilla | Quesadillas ) :032 | #032
+    Fish :136 | #136
+    Beef :137 | #137
+    ( Vegetable | Vegetable ) :138 | #138
     ( beef) ( Dumplings | Dumpling ) :106 | #106
     ( Chicken ) ( Dumplings | Dumpling ) :116 | #116
     ( Hash ( Browns | Brown )) :076 | #076
