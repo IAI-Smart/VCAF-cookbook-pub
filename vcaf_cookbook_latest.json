@@ -930,15 +930,26 @@
     {
         "Food Item": "Fish",
         "gID": 136,
-        "Food Category": "Seafood"
+        "Cookbook": "Standard",
+        "Food Category": "Seafood",
+        "Temperature (F)": 380,
+        "Time (minutes)": 10
     },
     {
         "Food Item": "Beef",
-        "gID": 137
+        "gID": 137,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 400,
+        "Time (minutes)": 12
     },
     {
         "Food Item": "Vegetable",
-        "gID": 138
+        "gID": 138,
+        "Cookbook": "Standard",
+        "Food Category": "Veggies/Fruit",
+        "Temperature (F)": 400,
+        "Time (minutes)": 20
     },
     {
         "Food Item": "Frozen beef dumpling",
