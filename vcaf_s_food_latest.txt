@@ -1,4 +1,4 @@
-# Food List generated 25-09-10 22:10 UTC
+# Food List generated 25-09-10 22:36 UTC
 s_food =
     ( Chicken | Chickens ) :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit ) :090 | #090
@@ -90,7 +90,7 @@ s_food =
     ( Black Bean | Chickpea ) ? ( Veggie ( Burger | Burgers )) ( patty | patties) ? :012 | #012
     ( Sword Fish ) :102 | #102
     ( Turkey | Beef ) ? ( Meatloaf | Meatloaves ) ( slices | slice ) ? :026 | #026
-    ( Pork | Porks ) ( Chops | Chop ) ? :123 | #123
+    ( Pork | Porks ) ( Chops | Chop ) :123 | #123
     ( tilapia ) ( Steak | Steaks | fillet | fillets ) ? :040 | #040
     ( Potato | Vegetable) ? ( Samosa | Samosas ) :022 | #022
     (Chicken | Turkey) ? (Drumstick | Drumsticks) :118 | #118
@@ -119,6 +119,7 @@ s_food =
     Fish :136 | #136
     Beef :137 | #137
     ( Vegetable | Vegetable | Veggie | Veggies ) :138 | #138
+    nan
     ( beef) ( Dumplings | Dumpling ) :106 | #106
     ( Chicken ) ( Dumplings | Dumpling ) :116 | #116
     ( Hash ( Browns | Brown )) :076 | #076

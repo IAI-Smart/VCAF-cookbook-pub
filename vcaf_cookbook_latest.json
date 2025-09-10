@@ -952,6 +952,14 @@
         "Time (minutes)": 20
     },
     {
+        "Food Item": "Pork",
+        "gID": 139,
+        "Cookbook": "Standard",
+        "Food Category": "Meat",
+        "Temperature (F)": 350,
+        "Time (minutes)": 20
+    },
+    {
         "Food Item": "Frozen beef dumpling",
         "gID": 106,
         "Cookbook": "Frozen",
