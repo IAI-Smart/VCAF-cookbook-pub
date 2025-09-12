@@ -64,14 +64,6 @@
         "Time (minutes)": 9
     },
     {
-        "Food Item": "Beets",
-        "gID": 48,
-        "Cookbook": "Standard",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 400,
-        "Time (minutes)": 18
-    },
-    {
         "Food Item": "Bell peppers",
         "gID": 99,
         "Cookbook": "Standard",
@@ -1102,14 +1094,6 @@
         "Food Category": "Meat",
         "Temperature (F)": 160,
         "Time (minutes)": 180
-    },
-    {
-        "Food Item": "Beets",
-        "gID": 48,
-        "Cookbook": "Dehydrate",
-        "Food Category": "Veggies/Fruit",
-        "Temperature (F)": 135,
-        "Time (minutes)": 360
     },
     {
         "Food Item": "Chicken jerky",

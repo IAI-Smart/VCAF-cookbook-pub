@@ -1,4 +1,4 @@
-# Food List generated 25-09-12 14:38 UTC
+# Food List generated 25-09-12 15:11 UTC
 s_food =
     ( Chicken | Chickens ) :059 | #059
     ( Buttermilk ) ? ( Biscuits | Biscuit ) :090 | #090
@@ -8,7 +8,6 @@ s_food =
     ( Asparagus ) :098 | #098
     ( Chicken ) ? ( Breast | Breasts ) ( fillet | fillets ) ? :073 | #073
     ( Mini ) ? ( Corn (Dogs | Dog )) :097 | #097
-    (Beet | Beets) :048 | #048
     ( Bell peppers ) :099 | #099
     ( Broccoli | Broccolis ) ( Florets | Floret ) ? :024 | #024
     ( donut | donuts ) :133 | #133
